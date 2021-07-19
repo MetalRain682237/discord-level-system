@@ -1,6 +1,6 @@
 {
   "name": "discord-level-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs package that works with sqlite3 to easily create a leveling system for your Discord bot.",
   "main": "index.js",
   "scripts": {
