@@ -1,0 +1,19 @@
+{
+  "name": "discord-level-system",
+  "version": "1.0.0",
+  "description": "Nodejs package that works with sqlite3 to easily create a leveling system for your Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetalRain682237/discord-level-system.git"
+  },
+  "author": "MetalRain682237#4905",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetalRain682237/discord-level-system/issues"
+  },
+  "homepage": "https://github.com/MetalRain682237/discord-level-system#readme"
+}
